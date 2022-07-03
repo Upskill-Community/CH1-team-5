@@ -1,8 +1,8 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
 
 /* screen resolution for screen sizes less than 375px desktop screen */
@@ -135,7 +135,8 @@
         align-items: center;
         width: 100%;
         font-family: Rubik;
-        border-radius: 10px;
+        background-color: white;
+        border-radius: 0;
         height: 60%;
     }
 
@@ -417,7 +418,8 @@
         align-items: center;
         width: 100%;
         font-family: Rubik;
-        border-radius: 10px;
+        background-color: white;
+        border-radius: 0;
         height: 60%;
     }
 
@@ -749,7 +751,8 @@
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    border-radius: 10px;
+    background-color: white;
+    border-radius: 0;
     height: 70%;
 }
 
