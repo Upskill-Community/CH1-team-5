@@ -7,15 +7,15 @@ body {
     /* font-weight: 500; */
 }
 
-body section {
+/* body section {
     text-align: center;
     display: flex;
     flex-direction: column;
     flex-flow: column;
-}
+} */
 
 body section .col_top {
-    width: 40%;
+    width: 80%;
     font-weight: 500;
     padding: 1em;
     margin: auto;
@@ -101,7 +101,7 @@ body section .col_top p {
     border-bottom-right-radius: 50%;
     background-color: hsl(231, 69%, 60%);
 }
-.simple_bookmarking_img .svg_background svg {
+.simple_bookmarking_img .svg_background img {
     height: 100%;
     width: 100%;
     position: relative;
@@ -252,7 +252,7 @@ body section .col_top p {
         border-bottom-right-radius: 50%;
         background-color: hsl(231, 69%, 60%);
     }
-    .simple_bookmarking_img .svg_background svg {
+    .simple_bookmarking_img .svg_background img {
         height: 100%;
         width: 100%;
         position: relative;
@@ -436,7 +436,7 @@ body section .col_top p {
         border-bottom-right-radius: 35%;
         background-color: hsl(231, 69%, 60%);
     }
-    .simple_bookmarking_img .svg_background svg {
+    .simple_bookmarking_img .svg_background img {
         height: 100%;
         width: 100%;
         position: relative;
