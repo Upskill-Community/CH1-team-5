@@ -12,7 +12,7 @@ sECtion {
   background: hsl(0, 94%, 66%);
   color: white;
   padding: 20px;
-  text-align: center;
+  /* text-align: center; */
   text-decoration: none;
   cursor: pointer;
 }
@@ -104,15 +104,35 @@ mAIn {
   color: hsl(229, 31%, 21%);
   margin-top: 0;
   justify-content: center;
-  text-align: center;
+  /* text-align: center; */
+}
+
+.main {
+  border: 5px solid red;
+  padding: 3rem 8rem;
+
 }
 
 .cONtainer {
-  margin-left: 75px;
-  display: grid;
-  grid-template-columns: 50% 50%;
+  /* margin-left: 75px; */
+  border: 5px solid red;
+  display: flex;
+  justify-content: space-between;
   align-items: center;
-  max-width: 80%;
+  gap: 3rem;
+  /* padding: 3rem 10rem; */
+  /* display: grid; */
+  /* grid-template-columns: 50% 50%; */
+  /* align-items: center; */
+  width: 100%;
+}
+
+.sUB-container {
+  border: 2px solid green;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .bOOkmark-hero {
