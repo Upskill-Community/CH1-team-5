@@ -14,6 +14,7 @@ Cohort 1 Project, Team 5
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+- [Contributors](#contributors)
 
 ## Overview
 
@@ -71,3 +72,8 @@ const proudOfThisFunc = () => {
   console.log('🎉')
 }
 ```
+## Contributors
+
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = Upskill-Community/CH1-team-5"/>
+</a>
