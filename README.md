@@ -3,7 +3,7 @@ Cohort 1 Project, Team 5
 
 ## Wecome to this project :wave:
 
-# Frontend Mentor - Bookmark landing page solution
+# Bookmark landing page solution
 
 ## Table of contents
 
