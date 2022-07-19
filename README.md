@@ -10,10 +10,11 @@ Cohort 1 Project, Team 5
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshots)
-  - [Link to live site](#Live-site)
+  - [Link to live site](#live-site)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+- [Contributors](#contributors)
 
 ## Overview
 
