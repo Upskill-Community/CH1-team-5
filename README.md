@@ -73,8 +73,9 @@ const proudOfThisFunc = () => {
 }
 ```
 
-## Contributors
+- ## Contributors
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Upskill-Community/CH1-team-5"/>
-</a>
+  - [Ebere](https://github.com/EbereChukss)
+  - [Kingsley CJ](https://github.com/kingsleycj)
+  - [Onyema Duru](https://github.com/onyemaduru47)
+  - [Royalknighthood](https://github.com/Royalknighthood)
