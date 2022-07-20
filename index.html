@@ -78,6 +78,88 @@
     </header>
     <!-- End Nav-->
 
+    <!-- Features Section Starts here -->
+    <section class="features_section">
+        <div class="col_top">
+          <h1>Features</h1>
+          <p>
+            Our aim is to make it quick and easy for you to access your favourite
+            websites. Your bookmark syncs between your devices so you can access
+            them on the go.
+          </p>
+        </div>
+  
+        <div class="col_bottom">
+          <div class="features_tab_nav_section">
+            <div class="features_tab_row_view">
+              <div id="tabOne" onclick="firstTab()">Simple Bookmarking</div>
+              <div id="tabTwo" onclick="secondTab()">Speedy Searching</div>
+              <div id="tabThree" onclick="thirdTab()">Easy Sharing</div>
+            </div>
+            <div class="features_tab_nav_indicator">
+            </div>
+          </div>
+  
+          <!-- This is Switchable_components Section -->
+          <div class="switchable_components">
+            <!-- First section  --> <div class="simple_bookmarking" id="switchable_components_one">
+              <div class="simple_bookmarking_img">
+                <!-- A background for the SVG --> <div class="svg_background">
+                  <img src="./illustration-features-tab-1.svg" alt="Tab1 image">
+                </div>
+                </div>
+              <div class="simple_bookmarking_txt">
+                <h1>Bookmark in one click</h1>
+                <p>
+                  Organise your bookmarks however you like. 
+                  Our simple drag and drop interface gives you 
+                  complete control over how you manage your favourite sites
+                </p>
+                <button>More Info</button>
+              </div>
+            </div>
+  
+            <!-- Second section for the switchable component -->
+            <div class="simple_bookmarking speedy_searching" id="switchable_components_two">
+              <div class="simple_bookmarking_img">
+                <!-- A background for the SVG --> <div class="svg_background">
+                  <img src="./illustration-features-tab-2.svg" alt="tab2 img">  
+                </div>
+                </div>
+              <div class="simple_bookmarking_txt">
+                <h1>Intelligent Search</h1>
+                <p>
+                  Our powerful feature will help you find saved 
+                  in no time at all. No need to throwl through all of
+                  your bookmarks.
+                </p>
+                <button>More Info</button>
+              </div>
+            </div>
+  
+            <!-- Third section for the switchable component -->
+            <div class="simple_bookmarking easy_sharing" id="switchable_components_three">
+              <div class="simple_bookmarking_img">
+                <!-- A background for the SVG --> <div class="svg_background">
+                  <img src="./illustration-features-tab-3.svg" alt="tab3 img">    
+                </div>
+                </div>
+              <div class="simple_bookmarking_txt">
+                <h1>Share you bookmarks</h1>
+                <p>
+                  Easily share your bookmarks and collections with 
+                  others. Create a shareable link that you can send at
+                  the click of a button.
+                </p>
+                <button>More Info</button>
+              </div>
+            </div>
+  
+          </div>
+        </div>
+      </section>
+      <!-- Features section ends here -->
+
     <script src="./bookmark.js"></script>
     <script src="./features.js"></script>
     <script src="./faq.js"></script>
