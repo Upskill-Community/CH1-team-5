@@ -1,8 +1,21 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 
+} */
+.footer {
+    font-family: Rubik;
+}
+
+.footer-body {
+    position: relative;
+    top: 0;
+    font-family: Rubik;
+    position: relative;
+    left: -8px;
+    width: 100vw;
+    overflow-x: hidden;
 }
 
 
@@ -12,13 +25,14 @@
         font-family: rubik;
         max-width: 300px;
         margin: 0 auto;
+        height: 100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
     }
 
     .faqs {
-        /* height: 100vh; */
+        height: 100vh;
     }
     .faq_title{
         color : hsl(229, 31%, 21%);
@@ -29,7 +43,6 @@
     
     .faq_para {
         text-align: center;
-        color: hsl(229, 8%, 60%);
         width: 200px;
         margin: 0 auto
     }
@@ -38,14 +51,12 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        width: 320px;
+        width: 200px;
         margin: 0 auto;
     }
 
     .question h3 {
-        color: rgb(106 99 99);
         font-size: 1rem;
-        margin-bottom: 1rem;
     }
 
     .question h3:hover {
@@ -53,7 +64,7 @@
     }
 
     .dash{
-        max-width: 320px;
+        max-width: 200px;
         height: 1px;
         margin: 0 auto;
         background-color: hsl(229, 8%, 60%);
@@ -121,7 +132,7 @@
         justify-content: space-between;
         align-items: center;
         height: 150px;
-        width: 200px;
+        width: 100%;
         box-sizing: border-box;
         margin: auto;
         font-family: Rubik;
@@ -144,7 +155,6 @@
         width: 100%;
         font-family: Rubik;
         border-radius: 10px;
-        margin-bottom: 2rem;
         height: 60%;
     }
 
@@ -152,7 +162,6 @@
         width: 100%;
         height: 88%;
         outline: none;
-        margin-bottom: 3rem;
         border: none;
         font-size: 15px;
         color: hsl(229, 31%, 21%);
@@ -221,7 +230,7 @@
     
     .footer{
         background: hsl(231, 69%, 60%);
-        height: 50vh;
+        height: 60vh;
         margin-top: 150px;
     }
     
@@ -240,29 +249,28 @@
     }
     
     .footer-textt {
-        font-size: 1.2rem;
+        font-size: 1.7rem;
         letter-spacing: .2rem;
         text-align: center;
         margin-top: 30px;
         color: white;
-        margin: 0 auto;
-        max-width: 200px;
-        padding-top: 2rem;
-        padding-bottom: 3rem
     }
     
     #footer-div {
+        text-align: center;
+        width: 100%;
+        margin: auto;
         background: hsl(229, 31%, 21%);
-        height: 50vh;
+        height: 400px;
     }
     
     .svg {
-        margin-top: 15px;
+        margin-top: 3em;
         color: #fff;
     }
     
     .ulist {
-        margin-top: 30px;
+        margin-top: -5em;
         color: #fff;
         font-size: 1rem;
         text-align: center;
@@ -270,20 +278,25 @@
     }
 
     .ulist li {
+        list-style-type: none;
         margin-top: 20px;
     }
     
     .footer-icons {
+        width: 100%;
+        display: flex;
+        justify-content: center;
         text-align: center;
         margin-top: 25px;
-        letter-spacing: 10px;
-        font-size: 23px;
+        font-size: 2em;
         color: whitesmoke;
     }
-    
-   
-
-   
+    .footer-icons i:nth-child(1) {
+        margin: 20px 0 0 10px;
+    }
+    .footer-icons i:nth-child(2) {
+        margin: 20px 0 0 60px;
+    }
 }
     
 /* screen resolution for screen sizes between 376px and 680px */
@@ -293,13 +306,14 @@
         font-family: rubik;
         max-width: 500px;
         margin: 0 auto;
+        height: 100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
     }
 
     .faqs {
-        /* height: 100vh; */
+        height: 100vh;
     }
     .faq_title{
         color : hsl(229, 31%, 21%);
@@ -310,7 +324,6 @@
     
     .faq_para {
         text-align: center;
-        color: hsl(229, 8%, 60%);
         width: 300px;
         margin: 0 auto
     }
@@ -319,14 +332,12 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        width: 320px;
+        width: 300px;
         margin: 0 auto;
     }
 
     .question h3 {
-        color: rgb(106 99 99);
         font-size: 1rem;
-        margin-bottom: 1rem;
     }
 
     .question h3:hover {
@@ -334,7 +345,7 @@
     }
 
     .dash{
-        max-width: 400px;
+        max-width: 300px;
         height: 1px;
         margin: 0 auto;
         background-color: hsl(229, 8%, 60%);
@@ -432,7 +443,6 @@
         width: 100%;
         height: 88%;
         outline: none;
-        margin-bottom: 3rem;
         border: none;
         font-size: 15px;
         color: hsl(229, 31%, 21%);
@@ -525,25 +535,23 @@
         text-align: center;
         margin-top: 30px;
         color: white;
-        margin: 0 auto;
-        max-width: 300px;
-        padding-top: 2rem;
-        padding-bottom: 3rem
     }
     
     #footer-div {
+        text-align: center;
+        width: 100%;
+        margin: auto;
         background: hsl(229, 31%, 21%);
-        height: 50vh;
+        height: 400px;
     }
     
     .svg {
-        margin-top: 25px;
+        margin-top: 3em;
         color: #fff;
-        margin-left: 10rem;
     }
     
     .ulist {
-        margin-top: 30px;
+        margin-top: -5em;
         color: #fff;
         font-size: 1rem;
         text-align: center;
@@ -551,20 +559,25 @@
     }
 
     .ulist li {
+        list-style-type: none;
         margin-top: 20px;
     }
     
     .footer-icons {
+        width: 100%;
+        display: flex;
+        justify-content: center;
         text-align: center;
         margin-top: 25px;
-        letter-spacing: 10px;
-        font-size: 23px;
+        font-size: 2em;
         color: whitesmoke;
     }
-    
-   
-
-   
+    .footer-icons i:nth-child(1) {
+        margin: 20px 0 0 10px;
+    }
+    .footer-icons i:nth-child(2) {
+        margin: 20px 0 0 60px;
+    }
 }
     
 
@@ -577,13 +590,14 @@
         font-family: rubik;
         max-width: 1000px;
         margin: 0 auto;
+        height: 100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
     }
 
     .faqs {
-        /* height: 100vh; */
+        height: 100vh;
     }
     .faq_title{
         color : hsl(229, 31%, 21%);
@@ -594,7 +608,6 @@
     
     .faq_para {
         text-align: center;
-        color: hsl(229, 8%, 60%);
         width: 500px;
         margin: 0 auto
     }
@@ -603,13 +616,11 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        width:550px;
+        width:500px;
         margin: 0 auto;
     }
 
     .question h3 {
-        color: rgb(106 99 99);
-        margin-bottom: 1rem;
         font-size: 1rem;
     }
 
@@ -618,7 +629,7 @@
     }
 
     .dash{
-        max-width: 550px;
+        max-width: 500px;
         height: 1px;
         margin: 0 auto;
         background-color: hsl(229, 8%, 60%);
@@ -693,7 +704,7 @@
     }
 
     .input_box {
-        width: 500px;
+        width: 90%;
         display: flex;
         flex-direction: column;
         flex-flow: column;
@@ -706,24 +717,22 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        width: 500px;
+        width: 100%;
         font-family: Rubik;
         border-radius: 10px;
         height: 60%;
     }
 
     .email input {
-        width: 500px;
-        margin: 0 auto;
+        width: 100%;
         height: 88%;
-        margin-bottom: 3rem;
         outline: none;
         border: none;
         font-size: 15px;
         color: hsl(229, 31%, 21%);
         border: none;
-        /* padding-left: 10px; */
-        /* margin-left: 10px; */
+        padding-left: 10px;
+        margin-left: 10px;
     }
 
     .email i {
@@ -741,10 +750,10 @@
 
     .error_section {
         display: none;
-        width: 500px;
+        width: 100%;
         height: 40%;
         box-sizing: border-box;
-        /* position: relative; */
+        position: relative;
         background-color: hsl(0, 94%, 66%);
         border-bottom-left-radius: 7px;
         border-bottom-right-radius: 7px;
@@ -767,10 +776,7 @@
     }
 
     .contact_btn button {
-        width: 500px;
-        display: flex;
-        justify-content: center;
-        margin: 0 auto;
+        width: 100%;
         height: 100%;
         font-size: 18px;
         font-weight: 500;
@@ -786,20 +792,15 @@
         background-color: white;
         color: hsl(0, 94%, 66%);
     }
-
-    .onclick-btn {
-        justify-content: center;
-        display: flex;
-    }
     
     .footer{
         background: hsl(231, 69%, 60%);
-        height: 50vh;
+        height: 60vh;
         margin-top: 50px;
     }
     
     .bfooter {
-        /* max-width: 400px; */
+        max-width: 400px;
         margin: 0 auto;
     }
     
@@ -817,27 +818,24 @@
         letter-spacing: .2rem;
         text-align: center;
         margin-top: 30px;
-        color: white;   
-        margin: 0 auto;
-        max-width: 500px;
-        padding-top: 2rem;
-        padding-bottom: 3rem
+        color: white;
     }
     
     #footer-div {
+        text-align: center;
+        width: 100%;
+        margin: auto;
         background: hsl(229, 31%, 21%);
-        height: 40vh;
+        height: 400px;
     }
     
     .svg {
-        margin-top: 15px;
+        margin-top: 3em;
         color: #fff;
-        margin-left: 17rem;
-
     }
-
+    
     .ulist {
-        margin-top: 30px;
+        margin-top: -5em;
         color: #fff;
         font-size: 1rem;
         text-align: center;
@@ -845,20 +843,25 @@
     }
 
     .ulist li {
+        list-style-type: none;
         margin-top: 20px;
     }
     
     .footer-icons {
+        width: 100%;
+        display: flex;
+        justify-content: center;
         text-align: center;
         margin-top: 25px;
-        letter-spacing: 10px;
-        font-size: 23px;
+        font-size: 2em;
         color: whitesmoke;
     }
-    
-   
-
-   
+    .footer-icons i:nth-child(1) {
+        margin: 20px 0 0 10px;
+    }
+    .footer-icons i:nth-child(2) {
+        margin: 20px 0 0 60px;
+    }
 }
 
 
@@ -874,7 +877,7 @@
     font-family: rubik;
     max-width: 700px;
     margin: 0 auto;
-    /* height: 100vh; */
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -888,7 +891,6 @@
 
 .faq_para {
     text-align: center;
-    color: hsl(229, 8%, 60%);
     margin-bottom: 100px;
 }
 
@@ -914,8 +916,6 @@
 }
 
 .question h3 {
-    color: rgb(106 99 99);
-    margin-bottom: 1rem;
     font-size: 16px;
 }
 
@@ -977,7 +977,7 @@
 }
 
 .bfooter {
-    /* max-width: 600px; */
+    max-width: 600px;
     margin: 0 auto;
 }
 
@@ -991,15 +991,11 @@
 }
 
 .footer-textt {
-    font-size: 3rem;
-    letter-spacing: .4rem;
+    font-size: 1.7rem;
+    letter-spacing: .2rem;
     text-align: center;
     margin-top: 30px;
     color: white;
-    margin: 0 auto;
-    max-width: 800px;
-    padding-top: 2rem;
-    padding-bottom: 3rem
 }
 
 #footer-div {
@@ -1040,7 +1036,7 @@
     display: flex;
     justify-content: space-evenly;
     height: 60px;
-    width: 700px;
+    width: 370px;
     box-sizing: border-box;
     margin: auto;
     font-family: Rubik;
@@ -1116,8 +1112,8 @@
 }
 
 .contact_btn button {
-    padding: 12px 58px;
-    border: none;
+    padding: 8px 15px;
+    border: 2px solid hsl(0, 94%, 66%);
     border-radius: 5px;
     background-color: hsl(0, 94%, 66%);
     color: white;
