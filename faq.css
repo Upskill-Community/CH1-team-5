@@ -43,8 +43,8 @@
     
     .faq_para {
         text-align: center;
-        width: 200px;
-        margin: 0 auto
+        /* width: 200px; */
+        margin: 0 auto;
         line-height: 1.5em;
     }
 
@@ -326,7 +326,7 @@
     
     .faq_para {
         text-align: center;
-        width: 300px;
+        /* width: 300px; */
         color: hsl(229, 8%, 60%);
         line-height: 1.5em;
         margin-bottom: 2rem;
