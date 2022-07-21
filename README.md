@@ -30,19 +30,19 @@ Users should be able to:
 
 - ### Screenshots
   - ### The bookmark banner section :point_down:
-![team5 1](https://user-images.githubusercontent.com/78439079/179644776-15117a46-ca19-4475-99af-86df8b1c6ac3.png)
+  ![Bookmark Project 1](https://user-images.githubusercontent.com/78439079/181256339-4afe22b0-bad6-49fe-b579-9cb48096f1d4.png)
 
   - ### The FEATURES section :point_down:
-  ![teams 2](https://user-images.githubusercontent.com/78439079/179644964-5ce9a51f-355c-4543-ad88-81891d1ce914.png)
+  ![Bookmark Project 2](https://user-images.githubusercontent.com/78439079/181256369-c71c9dfb-ea6a-41e9-a9f1-6ecad26beca7.png)
 
   - ### The DOWNLOAD section :point_down:
-  ![team5 3](https://user-images.githubusercontent.com/78439079/179645034-08e5c037-4a51-4dd9-bc49-c4bd167f8202.png)
+  ![Bookmark Project 3](https://user-images.githubusercontent.com/78439079/181256434-379163e5-30ed-4155-959b-51f24390fde0.png)
 
   - ### The FAQ section :point_down:
-  ![team5 4](https://user-images.githubusercontent.com/78439079/179645077-21b47707-041c-4416-969b-4069298ee96d.png)
+  ![Bookmark Project 4](https://user-images.githubusercontent.com/78439079/181256496-b2ae62fe-93eb-47d2-882a-6c18cc304cae.png)
 
   - ### The fOOTER section :point_down:
-  ![team 5 5](https://user-images.githubusercontent.com/78439079/179645195-0aff28d7-aa7c-4eaa-8e75-538f75efeb5a.png)
+  ![Bookmark Project 5](https://user-images.githubusercontent.com/78439079/181256518-c6df63e1-a4be-4133-a302-75851ad15ac3.png)
   
 
 ### Live-site

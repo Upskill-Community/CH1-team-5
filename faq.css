@@ -7,6 +7,16 @@
 .footer {
     font-family: Rubik;
 }
+/* .faq-btn-cont {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    background-color: red;
+    margin: auto;
+} */
 
 .footer-body {
     position: relative;
@@ -126,7 +136,7 @@
         border-radius: 3px;
     }
 
-    .input_section {
+    /* .input_section {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -226,7 +236,7 @@
     .contact_btn button:hover {
         background-color: white;
         color: hsl(0, 94%, 66%);
-    }
+    } */
     
     .footer{
         background: hsl(231, 69%, 60%);
@@ -412,7 +422,7 @@
         border-radius: 3px;
     }
 
-    .input_section {
+    /* .input_section {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -513,7 +523,7 @@
     .contact_btn button:hover {
         background-color: white;
         color: hsl(0, 94%, 66%);
-    }
+    } */
     
     .footer{
         background: hsl(231, 69%, 60%);
@@ -724,7 +734,7 @@
         border-radius: 3px;
     }
 
-    .input_section {
+    /* .input_section {
         display: flex;
         justify-content: space-evenly;
         height: 60px;
@@ -819,7 +829,7 @@
         background-color: white;
         border: 1px solid hsl(0, 94%, 66%);
         color: hsl(0, 94%, 66%);
-    }
+    } */
     
     .footer{
         background: hsl(231, 69%, 60%);
@@ -1076,7 +1086,7 @@
     color: whitesmoke;
 }
 
-.input_section {
+/* .input_section {
     display: flex;
     justify-content: space-evenly;
     height: 60px;
@@ -1171,7 +1181,7 @@
     background-color: white;
     border: 1px solid hsl(0, 94%, 66%);
     color: hsl(0, 94%, 66%);
-}
+} */
 .ulist li {
     list-style-type: none;
 }
