@@ -90,17 +90,17 @@
     position: relative;
     width: 80%;
     height: 75%;
-    top: 20px;
+    top: 40px;
     left: 0;
     border-top-right-radius: 35%;
     border-bottom-right-radius: 35%;
     background-color: hsl(231, 69%, 60%);
 }
 .simple_bookmarking_img .svg_background img {
-    height: 105%;
-    width: 90%;
+    height: 100%;
+    width: 100%;
     position: relative;
-    top: -2.5em;
+    top: -3.5em;
     left: 20%;
 }
 
@@ -255,7 +255,7 @@
         height: 100%;
         width: 100%;
         position: relative;
-        top: -1.5em;
+        top: -3.5em;
         left: 20%;
     }
     
