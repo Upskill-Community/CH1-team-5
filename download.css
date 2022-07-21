@@ -49,7 +49,7 @@
     height: 350px;
     align-items: center;
     border-radius: 20px;
-    box-shadow: 3px 5px 4px #bbb;
+    box-shadow: 2px 5px 4px #bbb;
     margin: 0 20px;
 }
 
@@ -108,6 +108,7 @@
         font-size: 10px;
     }
 }
+
 
 .download_btn:hover {
     color: hsl(231, 69%, 60%);
@@ -220,4 +221,9 @@
     .dot svg {
         width: 100%;
     } */
+}
+@media (min-width: 250px) and (max-width: 425px) {
+    .download_btn {
+        font-size: 0.8em;
+    }
 }

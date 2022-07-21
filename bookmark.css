@@ -7,6 +7,9 @@
     font-family: 'Rubik', sans-serif;
     list-style: none;
 } */
+.header-buttoNS button {
+    margin: 5px;
+}
 
 .header-buttoNS {
     text-align: left;
@@ -455,7 +458,7 @@ input:focus {
     .header-containER h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
     .header-containER p {
         text-align: center;
@@ -478,7 +481,7 @@ input:focus {
     .header-containER h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
     .header-containER p {
         text-align: center;
@@ -573,7 +576,7 @@ input:focus {
     .header-container h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
     .header-container p {
         text-align: center;
@@ -615,7 +618,7 @@ input:focus {
     .header-container h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
 }
 
@@ -623,7 +626,7 @@ input:focus {
     .header-container h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
 }
 
@@ -631,7 +634,7 @@ input:focus {
     .header-container h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
 }
 
@@ -639,7 +642,7 @@ input:focus {
     .header-container h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
 }
 
@@ -647,7 +650,7 @@ input:focus {
     .header-container h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
 }
 
@@ -655,6 +658,6 @@ input:focus {
     .header-container h1 {
         text-align: center;
         padding-left: 0px;
-        font-size: 20px;
+        font-size: 1.5em;
     }
 }
