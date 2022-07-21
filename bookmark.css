@@ -2,7 +2,8 @@
 
 
 
-.header-buttoNS button {
+.header-buttoNS .chrome-btn,
+.header-buttoNS .firefox-btn {
     margin: 5px;
 }
 
@@ -386,8 +387,8 @@ header button:last-child:hover {
     background: #ffffff;
 }
 
-button,
-input {
+.header-buttoNS .chrome-btn,
+.header-buttoNS .firefox-btn {
     outline: none;
     border: none;
     padding: .9rem 1rem;
@@ -398,13 +399,14 @@ input {
     box-shadow: 0 5px 5px #e0e0e0;
 }
 
-button {
+.header-buttoNS .chrome-btn,
+.header-buttoNS .firefox-btn {
     cursor: pointer;
     transition: all .2s ease-in;
 }
 
-button:active,
-input:focus {
+.header-buttoNS .chrome-btn:active,
+.header-buttoNS .firefox-btn:active {
     outline: none;
     box-shadow: none;
 }
