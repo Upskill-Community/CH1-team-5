@@ -1133,3 +1133,46 @@
     color: hsl(0, 94%, 66%);
 } 
 }
+
+@media (min-width: 840px) and (max-width: 999px) {
+    #footer-div {
+        background: hsl(229, 31%, 21%);
+        height: 10vh;
+    }
+    
+    .footer-list {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .svg {
+        margin-top: 20px;
+        margin-left: 130px;
+        color: #fff;
+    }
+    
+    .ulist {
+        display: grid;
+        grid-template-columns: repeat(3, 100px);
+        justify-content: center;
+        max-width: 300px;
+        margin-top: 23px;
+        color: #fff;
+        font-size: .6rem;
+        margin-bottom: 20px;
+    }
+    .footer-icons {
+        text-align: center;
+        margin-top: 25px;
+        letter-spacing: 10px;
+        font-size: 23px;
+        color: whitesmoke;
+    }
+    .ulist li {
+        list-style-type: none;
+    }
+    
+    .ulist li:hover {
+        color: hsl(0, 94%, 66%);
+    } 
+}
