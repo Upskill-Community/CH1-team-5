@@ -21,7 +21,7 @@
 .header-containER h1 {
     text-align: left;
     padding-left: 80px;
-    font-size: 3em;
+    font-size: 60px;
     padding-bottom: 5px;
 }
 
@@ -43,7 +43,7 @@ a {
 
 header {
     box-sizing: border-box;
-    font-family: MS Reference Sans Serif;
+    font-family: 'Rubik', san-serif;
 }
 
 .bookmark-hero-big {
@@ -52,7 +52,7 @@ header {
     color: hsl(229, 31%, 21%);
     margin-top: 3.2rem;
     margin-bottom: 1.5rem;
-    font-family: MS Reference Sans Serif;
+    font-family: 'Rubik', san-serif;
     font-weight: 900;
 }
 
@@ -567,7 +567,7 @@ input:focus {
     a {
         color: white;
         text-decoration: none;
-        font-family: MS Reference Sans Serif;
+        font-family: 'Rubik', san-serif;
     }
 
 }
