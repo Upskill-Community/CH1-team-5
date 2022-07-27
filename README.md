@@ -44,6 +44,8 @@ Users should be able to:
   - ### The fOOTER section :point_down:
   ![Bookmark Project 5](https://user-images.githubusercontent.com/78439079/181256518-c6df63e1-a4be-4133-a302-75851ad15ac3.png)
   
+  - ### The Chrome extension used for storing links to favourite sites :point_down:
+  ![extension1](https://user-images.githubusercontent.com/78439079/181259951-3a8226dd-711d-4b49-92e8-33950ef2ccef.png)
 
 ### Live-site
 - Live Site URL: [Click to view the live site](https://princechibez.github.io/CH1-team-5/)
