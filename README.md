@@ -9,7 +9,8 @@ Cohort 1 Project, Team 5
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshots)
+  - [Screenshot for Desktop](#screenshots)
+  - [Screenshot for Mobile](#mobileshots)
   - [Link to live site](#live-site)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -46,6 +47,26 @@ Users should be able to:
   
   - ### The Chrome extension used for storing links to favourite sites :point_down:
   ![extension1](https://user-images.githubusercontent.com/78439079/181259951-3a8226dd-711d-4b49-92e8-33950ef2ccef.png)
+
+- ### Mobileshots
+  - ### Side Drawer :point_down:
+  ![sidedrawer](https://user-images.githubusercontent.com/78439079/181264353-b9e96edf-e88d-431d-87ca-d8aac44bb1f8.png)
+  
+  - ### Landing page :point_down:
+  ![Bookmark mobile1](https://user-images.githubusercontent.com/78439079/181264568-fa5e3f95-d0cb-4ad1-8865-512b462e4130.png)
+  
+  - ### Features :point_down:
+  ![Bookmark mobile2](https://user-images.githubusercontent.com/78439079/181264678-c7baba15-17a7-43e0-bc93-8ba56f793c04.png)
+  
+  - ### Downloads :point_down:
+  ![Bookmark mobile3](https://user-images.githubusercontent.com/78439079/181264749-766ac44a-cff5-4db2-9421-bd25e353a0a1.png)
+  
+  - ### FAQ :point_down:
+  ![Bookmark mobile4](https://user-images.githubusercontent.com/78439079/181264842-aa37e2f8-961a-4676-98cc-f3dd0ec0e15d.png)
+  
+  - ### Footer :point_down:
+  ![Bookmark mobile5](https://user-images.githubusercontent.com/78439079/181264895-a2ce7074-850d-42d5-b3ba-24389ebb2a5f.png)
+
 
 ### Live-site
 - Live Site URL: [Click to view the live site](https://princechibez.github.io/CH1-team-5/)
