@@ -18,6 +18,13 @@
     overflow-x: hidden;
 }
 
+.dashs{
+    max-width: 450px;
+    height: 1px;
+    margin: 0 auto;
+    background-color: rgb(243 234 234);
+}
+
 
 /* screen resolution for screen sizes between 200px and 375px */
 @media (min-width: 200px) and (max-width: 375px) {
@@ -69,6 +76,9 @@
         height: 1px;
         margin: 0 auto;
         background-color: hsl(229, 8%, 60%);
+    }
+    .dashs{
+        display: none;
     }
 
     .faq p{
@@ -357,6 +367,10 @@
         background-color: rgb(243 234 234);
     }
 
+    .dashs{
+        display: none;
+    }
+
     .faq p{
         color:  hsl(229, 8%, 60%);
         margin: 0 auto;
@@ -633,6 +647,11 @@
         cursor: pointer;
     }
     .dash{
+        height: 1px;
+        background-color: rgb(243 234 234);
+    }
+
+    .dashs{
         height: 1px;
         background-color: rgb(243 234 234);
     }
@@ -941,8 +960,9 @@
 }
 .dash{
     height: 1px;
-    background-color: hsl(229, 8%, 60%);
+    background-color: rgb(243 234 234);
 }
+
 
 .question {
     box-sizing: border-box;   
